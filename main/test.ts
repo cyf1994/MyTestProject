@@ -7,5 +7,6 @@ const dev1 = {
 }
 const dev2 = {
     modify: 3,
+    modify: 5,
 }
 
