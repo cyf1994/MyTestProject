@@ -1,5 +1,6 @@
 const bianliang = {
     liang: 1,
+    main: 6,
 }
 const dev1 = {
     modify: 2,
